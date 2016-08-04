@@ -1,0 +1,42 @@
+_repo: Cinderella--Or-The-Little-Glass-Slipper-and-Other-Stories_1599
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/u#a49
+    - http://en.wikipedia.org/wiki/Anonymity
+description: ''
+gutenberg_issued: '1999-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1599'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- GITenberg
+tableOfContents: Cinderella; or the little glass slipper -- Fanny's telephone order
+  -- The raindrops' new dresses -- Sir Gobble -- What is it? -- John's bright idea
+  -- A sad Thanksgiving party -- Guy and the bee -- A mean boy -- A naughty pumpkin's
+  fate -- Something about fires -- The ice-king's reign -- Malmo, the wounded rat
+  -- Mama's happy Christmas -- Cured of carelessness -- A visit from a prince -- Stringing
+  cranberries -- Christmas in California -- A troublesome call -- Bertie's corn-popper
+  -- Fire! Fire!! Fire!!! -- The dolls and the other dolls -- Why did Mamma change
+  her mind? -- Clara's "funeral" -- The chickadee-dee -- The children's party -- Brave
+  Tomasso -- Tommy Frost sees a bear -- Myself -- Two strange sights -- A cat's instincts
+  -- Dinah's New Year's present -- Night flowers -- The first snow-storm -- Fred's
+  stolen ride -- A Valentine party -- The venturesome rat -- The bears' feast -- Patty-sayings
+  -- Babie's curls -- The red apples -- Bubbles -- A horse who wore snow shoes --
+  The angry bobolink -- How Hiram spent his shrimp money -- The ant's house -- The
+  foolish pug -- The silhouette party -- The snow birds -- A kind heart -- Towser
+  talks -- Just as she pleased -- The working tools of insects.
+title: Cinderella; Or, The Little Glass Slipper, and Other Stories
+url: http://www.gutenberg.org/ebooks/1599
